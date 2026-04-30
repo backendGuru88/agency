@@ -322,8 +322,9 @@ opacity:0.4;
     color:#ff6a00;
     font-size:14px;
 }
-.footer{
+.footer p{
     text-align:center;
+    font-size:12px;
 }
 
 /* RESPONSIVE */
